@@ -1,0 +1,16 @@
+PODS:
+  - TLColorFlowLayout (1.0.0)
+
+DEPENDENCIES:
+  - TLColorFlowLayout (from `../`)
+
+EXTERNAL SOURCES:
+  TLColorFlowLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TLColorFlowLayout: 1584cf9db5c22799aa6ce66d2e75ba3ad3d90aba
+
+PODFILE CHECKSUM: 02549f662defa8fad1408d217724366cd0c2fcd9
+
+COCOAPODS: 1.8.4

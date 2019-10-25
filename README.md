@@ -1,6 +1,6 @@
 # TLColorFlowLayout
 
-[![CI Status](https://img.shields.io/travis/huawentao/TLColorFlowLayout.svg?style=flat)](https://travis-ci.org/huawentao/TLColorFlowLayout)
+[![CI Status](https://img.shields.io/travis/huawtswork/TLColorFlowLayout.svg?style=flat)](https://travis-ci.org/huawtswork/TLColorFlowLayout)
 [![Version](https://img.shields.io/cocoapods/v/TLColorFlowLayout.svg?style=flat)](https://cocoapods.org/pods/TLColorFlowLayout)
 [![License](https://img.shields.io/cocoapods/l/TLColorFlowLayout.svg?style=flat)](https://cocoapods.org/pods/TLColorFlowLayout)
 [![Platform](https://img.shields.io/cocoapods/p/TLColorFlowLayout.svg?style=flat)](https://cocoapods.org/pods/TLColorFlowLayout)
@@ -22,7 +22,7 @@ pod 'TLColorFlowLayout'
 
 ## Author
 
-huawentao, huawentao@vipkid.com.cn
+huawt, ghost263sky@163.com
 
 ## License
 

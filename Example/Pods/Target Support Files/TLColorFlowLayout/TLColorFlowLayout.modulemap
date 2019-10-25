@@ -1,0 +1,6 @@
+framework module TLColorFlowLayout {
+  umbrella header "TLColorFlowLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
